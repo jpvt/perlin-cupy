@@ -3,9 +3,12 @@
 # Perlin-CuPy: Perlin-NumPy for GPU
 
 
-[![pypi](https://img.shields.io/badge/pypi-perlin--cupy-violet)](https://github.com/jpvt/perlin-cupy)
+[![pypi](https://img.shields.io/badge/pypi-perlin--cupy-violet)](https://pypi.org/project/perlin-cupy/)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blueviolet)](https://github.com/jpvt/perlin-cupy/blob/main/LICENSE)
 [![Author](https://img.shields.io/badge/author-jpvt-blue)](https://www.jpvteixeira.com/)
+
+[**Install**](https://github.com/jpvt/perlin-cupy#installation)
+| [**Examples**](https://github.com/jpvt/perlin-cupy/tree/main/docs/examples)
 
 
 Perlin-CuPy is a Perlin-NumPy compatible library for GPU-accelerated Perlin Noise generation.
