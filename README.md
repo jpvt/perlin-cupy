@@ -40,7 +40,7 @@ Wheel (precompiled binary package) is available for Linux (x86_64). We've curren
 
 ## Usage
 
-The usage is exactly the same as [Perlin-NumPy code](https://github.com/pvigier/perlin-numpy).
+The usage is exactly the same as [Perlin-NumPy](https://github.com/pvigier/perlin-numpy).
 
 ### 2D noise
 
