@@ -20,17 +20,11 @@ from perlin_cupy import (
 
 ## Installation
 
-Wheels (precompiled binary packages) are available for Linux (x86_64). Choose the right package for your platform.
+Wheel (precompiled binary package) is available for Linux (x86_64). We've currently tested only for CUDA 11.3 platform using CuPy v11.3, but it should work for any CuPy version installed in your environment.
 
 | Platform      | Command                              |
 | ------------- | ------------------------------------ |
-| CUDA 10.0     | `pip install perlin-cupy-cuda100`    |
-| CUDA 10.1     | `pip install perlin-cupy-cuda101`    |
-| CUDA 10.2     | `pip install perlin-cupy-cuda102`    |
-| CUDA 11.0     | `pip install perlin-cupy-cuda110`    |
-| CUDA 11.1     | `pip install perlin-cupy-cuda111`    |
-| CUDA 11.2     | `pip install perlin-cupy-cuda112`    |
-| CUDA 11.3     | `pip install perlin-cupy-cuda113`    |
+| CUDA 11.3     | `pip install perlin-cupy`            |
 
 ### Requirements
 
