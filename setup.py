@@ -25,10 +25,10 @@ setup(
     install_requires=['cupy'],
     keywords=['python', 'perlin', 'noise', 'gpu'],
     classifiers=[
-        "Development Status :: Initial Version",
+        "Development Status :: 4 - Beta",
         "Intended Audience :: Developers",
         "Programming Language :: Python :: 3",
-        "Operating System :: Linux",
+        "Operating System :: Unix",
         "License :: OSI Approved :: MIT License",
     ],
 )
