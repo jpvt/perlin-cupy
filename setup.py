@@ -10,9 +10,11 @@ with codecs.open(os.path.join(here, "README.md"), encoding="utf-8") as fh:
 setup(
     name="perlin-cupy",
     version="0.0.1",
-    author="jpvt",
+    author="jpvt (João Pedro Vasconcelos)",
     author_email="joaoteixeira@eng.ci.ufpb.br",
     description="Perlin-NumPy for GPU",
+    long_description_content_type="text/markdown",
+    long_description=long_description,
     url="https://github.com/jpvt/perlin-cupy",
     project_urls={
         "Source": "https://github.com/jpvt/perlin-cupy",
@@ -21,8 +23,9 @@ setup(
     license="MIT",
     packages=find_packages(),
     install_requires=['cupy'],
+    keywords=['python', 'perlin', 'noise', 'gpu'],
     classifiers=[
-        "Development Status :: 1 - First Version",
+        "Development Status :: Initial Version",
         "Intended Audience :: Developers",
         "Programming Language :: Python :: 3",
         "Operating System :: Linux",
