@@ -22,7 +22,7 @@ setup(
     },
     license="MIT",
     packages=find_packages(),
-    install_requires=['cupy'],
+    install_requires=['cupy-cuda113'],
     keywords=['python', 'perlin', 'noise', 'gpu'],
     classifiers=[
         "Development Status :: 4 - Beta",
