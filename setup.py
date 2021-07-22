@@ -9,7 +9,7 @@ with codecs.open(os.path.join(here, "README.md"), encoding="utf-8") as fh:
 
 setup(
     name="perlin-cupy",
-    version="0.0.1",
+    version="0.0.2",
     author="jpvt (João Pedro Vasconcelos)",
     author_email="joaoteixeira@eng.ci.ufpb.br",
     description="Perlin-NumPy for GPU",
