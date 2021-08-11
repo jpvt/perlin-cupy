@@ -91,6 +91,6 @@ MIT License (See [LICENSE](https://github.com/jpvt/perlin-cupy/blob/main/LICENSE
 
 Perlin-CuPy is designed based on Perlin-NumPy's API (see [LICENSE_THIRD_PARTY](https://github.com/jpvt/perlin-cupy/blob/main/docs/LICENSE_THIRD_PARTY) file) by Pierre Vigier.
 
-Perlin-CuPy is being maintained and developed by [João Pedro Vasconcelos](https://github.com/jpvt) and [Bruno Barufaldi](https://aria.ci.ufpb.br/).
+Perlin-CuPy is being maintained and developed by [João Pedro Vasconcelos](https://github.com/jpvt) and [Bruno Barufaldi](https://github.com/bbarufaldi).
 
 Icon logo made by [Eucalyp](https://creativemarket.com/eucalyp) from [Flaticon](https://www.flaticon.com/).
