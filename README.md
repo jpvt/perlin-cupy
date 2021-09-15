@@ -40,7 +40,7 @@ Wheel (precompiled binary package) is available for Linux (x86_64). We've curren
 
 ## Usage
 
-The usage is exactly the same as [Perlin-NumPy code](https://github.com/pvigier/perlin-numpy).
+The usage is exactly the same as [Perlin-NumPy](https://github.com/pvigier/perlin-numpy).
 
 ### 2D noise
 
@@ -89,10 +89,8 @@ Note: `shape` must be a multiple of `lacunarity^(octaves-1)*res`
 
 MIT License (See [LICENSE](https://github.com/jpvt/perlin-cupy/blob/main/LICENSE) file).
 
-Perlin-NumPy is designed based on Perlin-NumPy's API (see [LICENSE_THIRD_PARTY](https://github.com/jpvt/perlin-cupy/blob/main/docs/LICENSE_THIRD_PARTY) file).
+Perlin-CuPy is designed based on Perlin-NumPy's API (see [LICENSE_THIRD_PARTY](https://github.com/jpvt/perlin-cupy/blob/main/docs/LICENSE_THIRD_PARTY) file) by Pierre Vigier.
 
-Perlin-CuPy is being maintained and developed by [João Pedro Vasconcelos](https://github.com/jpvt).
+Perlin-CuPy is being maintained and developed by [João Pedro Vasconcelos](https://github.com/jpvt) and [Bruno Barufaldi](https://github.com/bbarufaldi).
 
 Icon logo made by [Eucalyp](https://creativemarket.com/eucalyp) from [Flaticon](https://www.flaticon.com/).
-
-
