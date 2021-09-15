@@ -9,7 +9,7 @@ with codecs.open(os.path.join(here, "README.md"), encoding="utf-8") as fh:
 
 setup(
     name="perlin-cupy",
-    version="0.0.2",
+    version="0.0.3",
     author="jpvt (João Pedro Vasconcelos)",
     author_email="joaoteixeira@eng.ci.ufpb.br",
     description="Perlin-NumPy for GPU",
@@ -22,7 +22,7 @@ setup(
     },
     license="MIT",
     packages=find_packages(),
-    install_requires=['cupy-cuda113'],
+    install_requires=[],
     keywords=['python', 'perlin', 'noise', 'gpu'],
     classifiers=[
         "Development Status :: 4 - Beta",
